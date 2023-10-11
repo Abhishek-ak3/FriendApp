@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FriendApp/static/css/main.d82fcd65.css",
+    "main.js": "/FriendApp/static/js/main.ce9e3999.js",
+    "static/js/787.28cb0dcd.chunk.js": "/FriendApp/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/FriendApp/index.html",
+    "main.d82fcd65.css.map": "/FriendApp/static/css/main.d82fcd65.css.map",
+    "main.ce9e3999.js.map": "/FriendApp/static/js/main.ce9e3999.js.map",
+    "787.28cb0dcd.chunk.js.map": "/FriendApp/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d82fcd65.css",
+    "static/js/main.ce9e3999.js"
+  ]
+}
